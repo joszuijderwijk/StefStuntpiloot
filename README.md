@@ -12,6 +12,6 @@ Stef Stuntpiloot (Looping Louie) controlled by an Arduino Nano and an L293D moto
 * Save settings (EEPROM).
 * Display amount of sips (or shots) after a round. This is optional.
 
-[!](https://i.imgur.com/a75HmdK.jpg)
-[!](https://i.imgur.com/KMDPYkC.jpg)
-[!](https://i.imgur.com/99JBlRu.jpg)
+![](https://i.imgur.com/a75HmdK.jpg)
+![](https://i.imgur.com/KMDPYkC.jpg)
+![](https://i.imgur.com/99JBlRu.jpg)
