@@ -20,6 +20,6 @@ Stef Stuntpiloot (Looping Louie) controlled by an Arduino Nano and an L293D moto
 5. SELECT button
 6. Output
 
-More information: https://joszuijderwijk.nl/blog/stef
+More information: https://joszuijderwijk.nl/blog/stef-stuntpiloot
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5MCIS7cAwmU/0.jpg)](https://www.youtube.com/watch?v=5MCIS7cAwmU)
